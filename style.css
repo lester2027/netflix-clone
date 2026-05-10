@@ -132,6 +132,14 @@ img {
   text-align: center;
 }
 
+.tabs .container i {
+  font-size: 2.5rem;
+}
+
+.tabs .container p {
+  font-size: 1rem;
+}
+
 .tabs p {
   font-size: 1.2rem;
   padding-top: 0.5rem;
